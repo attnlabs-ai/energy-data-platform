@@ -1,4 +1,7 @@
 # energy-data-platform
+
+> New here, person or AI agent? Read [START-HERE.md](START-HERE.md) first.
+
 SaaS energy-data platform for real-time CCUS, DER, and methane-emissions signals.
 
 ## Overview
